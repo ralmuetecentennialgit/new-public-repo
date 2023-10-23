@@ -1,3 +1,3 @@
 # new-public-repo
 
-Test Jenkins if pipeline will be automatically triggered. Part 3.
+Test Jenkins if pipeline will be automatically triggered. Part 4.
